@@ -1,0 +1,3 @@
+/Users/apple/Desktop/CMake_Learning/hello_world/CMakeFiles/rebuild_cache.dir
+/Users/apple/Desktop/CMake_Learning/hello_world/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/CMake_Learning/hello_world/CMakeFiles/hello.dir
